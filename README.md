@@ -2,7 +2,7 @@
 
 ![Hazel's Cusina](logo.jpg)
 
-A comprehensive website for **Hazel's Cusina**, an authentic Filipino restaurant and catering service based in *Klundert, Netherlands*. This fully responsive website serves as a digital storefront showcasing the restaurant's cuisine, services, and Filipino culinary culture.
+A website for **Hazel's Cusina**, an Filipino restaurant and catering service based in *Klundert, Netherlands*. This fully responsive website serves as a digital storefront showcasing the restaurant's cuisine, services, and Filipino culinary culture.
 
 ## Live Website
 
@@ -10,7 +10,7 @@ Visit Hazel's Cusina at [noahlinker.nl](https://noahlinker.nl)
 
 ## Project Overview
 
-Hazel's Cusina website is designed to provide an immersive digital experience that mirrors the warmth and authenticity of the restaurant itself. It offers information about the cuisine, services, and makes it easy for customers to make reservations or request catering services.
+This is a personal project with no real intention behind it. Currently, the website offers information about the cuisine, services, and makes it easy for customers to make reservations or request catering services.
 
 ## Technologies Used
 

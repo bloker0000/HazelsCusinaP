@@ -1,6 +1,6 @@
 # Hazel's Cusina - Authentic Filipino Restaurant Website
 
-![Hazel's Cusina](media/img/logo.jpg)
+![Hazel's Cusina](logo.jpg)
 
 A comprehensive website for **Hazel's Cusina**, an authentic Filipino restaurant and catering service based in *Klundert, Netherlands*. This fully responsive website serves as a digital storefront showcasing the restaurant's cuisine, services, and Filipino culinary culture.
 

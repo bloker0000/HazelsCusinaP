@@ -37,6 +37,8 @@ This is a personal project with no real intention behind it. Currently, the webs
 ## Website Structure
 
 ### 1. Home Page (`index.html`)
+![Home Page](home.png)
+
 - Hero section with background video
 - Introduction to Chef Hazel and restaurant philosophy
 - Dynamic carousel showcasing signature dishes
@@ -45,6 +47,8 @@ This is a personal project with no real intention behind it. Currently, the webs
 - Call-to-action for reservations
 
 ### 2. About Page (`about.html`)
+![Our Story](our_story.png)
+
 - Restaurant origin story and journey
 - Chef Hazel's background and culinary philosophy
 - Core values with visual representations
@@ -52,6 +56,8 @@ This is a personal project with no real intention behind it. Currently, the webs
 - Customer testimonial highlight
 
 ### 3. Services Page (`services.html`)
+![Services](services.png)
+
 - Comprehensive catering services information
 - Event types (weddings, birthdays, corporate, etc.)
 - Three-tiered catering packages with pricing
@@ -59,6 +65,8 @@ This is a personal project with no real intention behind it. Currently, the webs
 - Restaurant location and hours
 
 ### 4. Menu Page (`menu.html`)
+![Menu](menu.png)
+
 - Complete food offerings by category
 - Interactive navigation between menu sections
 - Detailed dish descriptions and pricing
@@ -66,6 +74,8 @@ This is a personal project with no real intention behind it. Currently, the webs
 - Downloadable PDF menu option
 
 ### 5. Contact Page (`contact.html`)
+![Contact](contact.png)
+
 - Restaurant reservation form with serverless backend
 - Catering inquiry form with email notifications
 - Interactive Google Maps integration
@@ -73,6 +83,8 @@ This is a personal project with no real intention behind it. Currently, the webs
 - Frequently asked questions section
 
 ### 6. Blog Section (`blog.html` & `blog-post.html`)
+![Blog](blog.png)
+
 - Articles about Filipino cuisine and culture
 - Detailed post about Filipino culinary traditions
 - Related content suggestions
